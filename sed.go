@@ -1,4 +1,4 @@
-package main
+package sed
 
 import (
 	"io/ioutil"
